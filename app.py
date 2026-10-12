@@ -8,11 +8,3 @@ def main():
 	print("Count :", len(MARKS))
 	print("Average:", average(MARKS))
 	print("Highest:", highest(MARKS))
-<<<<<<< HEAD
-if __name__ =="__main__":
-    main()
-=======
-	print("Lowest:", lowest(MARKS))
-if __name__ =="__main__":
-	main()
->>>>>>> feature-branch
